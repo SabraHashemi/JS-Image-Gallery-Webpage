@@ -1,3 +1,6 @@
 # JS-Image-Gallery-Webpage
 Image Gallery Webpage using HTML, CSS, JS
-![alt text](http://url/to/img.png)
+
+
+
+![output](https://github.com/sabrabano0/JS-Image-Gallery-Webpage/blob/master/readme%20pic.png)
